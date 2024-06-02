@@ -1,0 +1,48 @@
+#pacman {
+   z-index: 1;
+  position: absolute;
+  /*background-color: green;
+  /*width: 50px;
+  height: 140px;*/
+  width: 140px;
+  height: 140px;
+  border-radius: 75px;
+  left:675px;
+  top:555px;
+}
+#corpo{
+  background-color: black;
+  z-index: 2;
+}
+#mangi{
+  position: absolute;
+  z-index: 1;
+  width: 50px;
+  height: 50px;
+  left:680px;
+  top:255px;
+  border-radius: 25px;
+}
+#gigachad{
+  z-index: 2;
+  position: absolute;
+    left:490px;
+  top:50px;
+  width: 625px;
+  height: 625px;
+}
+#jk{
+  position: absolute;
+  z-index: 2;
+  left:600px;
+  top:200px;
+}
+#canvas{
+  position: absolute;
+  border-style: solid;
+border-color: black;
+left: 200px;
+z-index: 0;
+border-bottom: 10px;
+background-color: blue;
+}
